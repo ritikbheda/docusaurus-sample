@@ -9,12 +9,12 @@ const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://ritikbheda.github.io/',
-  baseUrl: '/',
+  baseUrl: '/docusaurus-sample/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'ritikbheda', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  projectName: 'docusaurus-sample', // Usually your repo name.
 
   presets: [
     [
